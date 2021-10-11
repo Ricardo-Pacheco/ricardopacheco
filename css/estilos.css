@@ -1,0 +1,9 @@
+.body{
+    background-color: lightblue; opacity: 0.5;
+    font-size: medium;
+}
+
+.ul li{
+    color: black;
+    font-style: italic;
+}
