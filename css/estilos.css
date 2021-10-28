@@ -19,7 +19,12 @@ html {
   background-image: url("../images/img_5.jpg");
   min-height: 100%;
 }
-
+.enlaces{
+  display: flex;
+  gap: 2.0rem;
+  font-size: 20px;
+  list-style: none;
+}
 .caption {
   position: absolute;
   left: 0;
