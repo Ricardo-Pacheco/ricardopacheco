@@ -25,6 +25,9 @@ html {
   font-size: 20px;
   list-style: none;
 }
+.enlaces a{
+  color: white;
+}
 .caption {
   position: absolute;
   left: 0;
